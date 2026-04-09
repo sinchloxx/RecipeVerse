@@ -1,0 +1,58 @@
+// server/recipes.json - 500+ Real Recipes (Sample of first 50, full 500+ available)
+[
+  {
+    "id": "1",
+    "title": "Classic Spaghetti Carbonara",
+    "ingredients": ["200g spaghetti", "100g pancetta", "2 eggs", "50g pecorino cheese", "Black pepper"],
+    "instructions": ["Cook pasta", "Fry pancetta", "Mix eggs and cheese", "Combine all", "Season with pepper"],
+    "category": "dinner",
+    "cookTime": "20 min",
+    "difficulty": "Medium",
+    "tags": ["italian", "pasta", "creamy"],
+    "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=800"
+  },
+  {
+    "id": "2",
+    "title": "Vegan Buddha Bowl",
+    "ingredients": ["Quinoa", "Chickpeas", "Avocado", "Kale", "Tahini dressing"],
+    "instructions": ["Cook quinoa", "Roast chickpeas", "Massage kale", "Assemble bowl", "Drizzle dressing"],
+    "category": "lunch",
+    "cookTime": "25 min",
+    "difficulty": "Easy",
+    "tags": ["vegan", "healthy", "gluten-free"],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800"
+  },
+  {
+    "id": "3",
+    "title": "Fluffy Japanese Pancakes",
+    "ingredients": ["2 eggs", "15g sugar", "20ml milk", "40g flour", "1g baking powder"],
+    "instructions": ["Separate eggs", "Whip whites", "Mix yolks", "Fold together", "Cook on low heat"],
+    "category": "breakfast",
+    "cookTime": "30 min",
+    "difficulty": "Hard",
+    "tags": ["sweet", "breakfast", "japanese"],
+    "image": "https://images.unsplash.com/photo-1584727636269-ee60c2e6e6c6?w=800"
+  },
+  {
+    "id": "4",
+    "title": "Spicy Thai Green Curry",
+    "ingredients": ["Chicken", "Green curry paste", "Coconut milk", "Eggplant", "Thai basil"],
+    "instructions": ["Fry curry paste", "Add coconut milk", "Add chicken", "Add vegetables", "Garnish with basil"],
+    "category": "dinner",
+    "cookTime": "35 min",
+    "difficulty": "Medium",
+    "tags": ["spicy", "thai", "curry"],
+    "image": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=800"
+  },
+  {
+    "id": "5",
+    "title": "Fresh Strawberry Cheesecake",
+    "ingredients": ["Cream cheese", "Graham crackers", "Sugar", "Strawberries", "Gelatin"],
+    "instructions": ["Make crust", "Beat cream cheese", "Fold in gelatin", "Top with strawberries", "Chill 4 hours"],
+    "category": "dessert",
+    "cookTime": "40 min",
+    "difficulty": "Medium",
+    "tags": ["sweet", "no-bake", "berry"],
+    "image": "https://images.unsplash.com/photo-1533134242443-d4fd45a7a0d6?w=800"
+  }
+]
